@@ -1,0 +1,16 @@
+{
+  "name": "electron-pixiflash-animation-example",
+  "version": "1.0.0",
+  "description": "Electron app shell quick start.",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrew rapo <andrew@jibo.com> (http://jibo.com)",
+  "license": "TBD",
+  "devDependencies": {
+  },
+  "dependencies": {
+
+  }
+}
